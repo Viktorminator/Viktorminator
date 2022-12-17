@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Viktors's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktorminator)](https://github.com/Viktorminator/github-readme-stats)
 
+![Codewars](https://www.codewars.com/users/Viktorminator/badges/micro)
+
 <!--
 **Viktorminator/Viktorminator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
