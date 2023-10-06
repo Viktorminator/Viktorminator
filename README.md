@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Viktors's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktorminator)](https://github.com/Viktorminator/github-readme-stats)
+[![Viktors's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-matushevskyi)](https://github.com/viktor-matushevskyi/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/Viktorminator/badges/micro)
 
