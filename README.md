@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![Viktors's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktorminator)](https://github.com/Viktorminator/github-readme-stats)
-
+I'm currenty working on e-commerce projects.
+In the same time I began to study Rust to harnece it's power and promising perspective.
+You can reach me via email/Telegram. May the Force be with you.
 ![Codewars](https://www.codewars.com/users/Viktorminator/badges/micro)
 
 <!--
